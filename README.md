@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" alt="Recurrent Neural Network Logo" width="250">
-</p>
+
 
 <h1 align="center"> Recurrent Neural Network (RNN) Attention Application </h>
 
@@ -16,8 +14,6 @@
 - [Configuration](#configuration)
 - [Credentials](#credentials)
 
-<p align="center">
-  <img src="- [Credentials](#credentials)
 
 <p align="center">
   <img src="Improving Deep Neural Networks MX5H7SDD8GDY.jpg" alt="Machine Learning Logo" width="825">
