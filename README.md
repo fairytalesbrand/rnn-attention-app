@@ -14,3 +14,11 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Improving Deep Neural Networks MX5H7SDD8GDY.jpg" alt="Machine Learning Logo" width="825">
+</p>
